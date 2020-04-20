@@ -1,0 +1,139 @@
+C:\Users\trant\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\trant\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\trant\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\trant\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+C:\Users\trant\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\trant\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\trant\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\trant\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\trant\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\trant\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+E:\QLQuanCAFE (Mẫu)\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+E:\QLQuanCAFE (Mẫu)\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+E:\QLQuanCAFE (Mẫu)\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+E:\QLQuanCAFE (Mẫu)\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+E:\QLQuanCAFE (Mẫu)\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+E:\QLQuanCAFE (Mẫu)\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+E:\QLQuanCAFE (Mẫu)\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+E:\QLQuanCAFE (Mẫu)\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+E:\QLQuanCAFE (Mẫu)\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+E:\QLQuanCAFE (Mẫu)\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\Học tập\HQTCSDL\QLQuanCAFE (Mẫu)\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\Học tập\HQTCSDL\QLQuanCAFE (Mẫu)\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\Học tập\HQTCSDL\QLQuanCAFE (Mẫu)\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\Học tập\HQTCSDL\QLQuanCAFE (Mẫu)\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+D:\Học tập\HQTCSDL\QLQuanCAFE (Mẫu)\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\Học tập\HQTCSDL\QLQuanCAFE (Mẫu)\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\Học tập\HQTCSDL\QLQuanCAFE (Mẫu)\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Học tập\HQTCSDL\QLQuanCAFE (Mẫu)\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\Học tập\HQTCSDL\QLQuanCAFE (Mẫu)\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\Học tập\HQTCSDL\QLQuanCAFE (Mẫu)\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\Học tập\HQTCSDL\QLQuanCAFE (Mẫu)\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+E:\BTL\BTL\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+E:\BTL\BTL\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+E:\BTL\BTL\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+E:\BTL\BTL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+E:\BTL\BTL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+E:\BTL\BTL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+E:\BTL\BTL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+E:\BTL\BTL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+E:\BTL\BTL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+E:\BTL\BTL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+E:\BTL\BTL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+E:\BTL\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+E:\BTL\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+E:\BTL\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+E:\BTL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+E:\BTL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+E:\BTL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+E:\BTL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+E:\BTL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+E:\BTL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+E:\BTL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+E:\BTL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+E:\BTL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\NamNguyen\Desktop\BTLFFULL1\BTLFFULL\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\NamNguyen\Desktop\BTLFFULL1\BTLFFULL\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\NamNguyen\Desktop\BTLFFULL1\BTLFFULL\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\NamNguyen\Desktop\BTLFFULL1\BTLFFULL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+C:\Users\NamNguyen\Desktop\BTLFFULL1\BTLFFULL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\NamNguyen\Desktop\BTLFFULL1\BTLFFULL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\NamNguyen\Desktop\BTLFFULL1\BTLFFULL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\NamNguyen\Desktop\BTLFFULL1\BTLFFULL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\NamNguyen\Desktop\BTLFFULL1\BTLFFULL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\NamNguyen\Desktop\BTLFFULL1\BTLFFULL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\NamNguyen\Desktop\BTLFFULL1\BTLFFULL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\NamNguyen\Desktop\BTLFFULL1\BTLFFULL\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\NamNguyen\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\NamNguyen\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\NamNguyen\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\NamNguyen\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+C:\Users\NamNguyen\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\NamNguyen\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\NamNguyen\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\NamNguyen\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\NamNguyen\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\NamNguyen\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\NamNguyen\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\NamNguyen\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\NamNguyen\Desktop\Bài tập lớn\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\NamNguyen\Desktop\Bài tập lớn\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\NamNguyen\Desktop\Bài tập lớn\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\NamNguyen\Desktop\Bài tập lớn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+C:\Users\NamNguyen\Desktop\Bài tập lớn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\NamNguyen\Desktop\Bài tập lớn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\NamNguyen\Desktop\Bài tập lớn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\NamNguyen\Desktop\Bài tập lớn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\NamNguyen\Desktop\Bài tập lớn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\NamNguyen\Desktop\Bài tập lớn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\NamNguyen\Desktop\Bài tập lớn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\NamNguyen\Desktop\Bài tập lớn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+E:\Bài tập lớn Nhóm 2_Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+E:\Bài tập lớn Nhóm 2_Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+E:\Bài tập lớn Nhóm 2_Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+E:\Bài tập lớn Nhóm 2_Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+E:\Bài tập lớn Nhóm 2_Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+E:\Bài tập lớn Nhóm 2_Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+E:\Bài tập lớn Nhóm 2_Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+E:\Bài tập lớn Nhóm 2_Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+E:\Bài tập lớn Nhóm 2_Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+E:\Bài tập lớn Nhóm 2_Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+E:\Bài tập lớn Nhóm 2_Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+E:\Bài tập lớn Nhóm 2_Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+E:\Bài tập lớn Nhóm 2_Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\Học tập\HQTCSDL\Bài tập lớn Nhóm 2 - Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\Học tập\HQTCSDL\Bài tập lớn Nhóm 2 - Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\Học tập\HQTCSDL\Bài tập lớn Nhóm 2 - Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\Học tập\HQTCSDL\Bài tập lớn Nhóm 2 - Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+D:\Học tập\HQTCSDL\Bài tập lớn Nhóm 2 - Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+D:\Học tập\HQTCSDL\Bài tập lớn Nhóm 2 - Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+D:\Học tập\HQTCSDL\Bài tập lớn Nhóm 2 - Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\Học tập\HQTCSDL\Bài tập lớn Nhóm 2 - Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\Học tập\HQTCSDL\Bài tập lớn Nhóm 2 - Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\Học tập\HQTCSDL\Bài tập lớn Nhóm 2 - Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Học tập\HQTCSDL\Bài tập lớn Nhóm 2 - Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\Học tập\HQTCSDL\Bài tập lớn Nhóm 2 - Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\Học tập\HQTCSDL\Quản Lý Quán Cafe\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\Học tập\HQTCSDL\Quản Lý Quán Cafe\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\Học tập\HQTCSDL\Quản Lý Quán Cafe\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\Học tập\HQTCSDL\Quản Lý Quán Cafe\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+D:\Học tập\HQTCSDL\Quản Lý Quán Cafe\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+D:\Học tập\HQTCSDL\Quản Lý Quán Cafe\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+D:\Học tập\HQTCSDL\Quản Lý Quán Cafe\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\Học tập\HQTCSDL\Quản Lý Quán Cafe\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\Học tập\HQTCSDL\Quản Lý Quán Cafe\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\Học tập\HQTCSDL\Quản Lý Quán Cafe\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Học tập\HQTCSDL\Quản Lý Quán Cafe\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\Học tập\HQTCSDL\Quản Lý Quán Cafe\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\MSI GF63\Desktop\Quản Lý Quán Cafe (1)\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\MSI GF63\Desktop\Quản Lý Quán Cafe (1)\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\MSI GF63\Desktop\Quản Lý Quán Cafe (1)\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\MSI GF63\Desktop\Quản Lý Quán Cafe (1)\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+C:\Users\MSI GF63\Desktop\Quản Lý Quán Cafe (1)\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\MSI GF63\Desktop\Quản Lý Quán Cafe (1)\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\MSI GF63\Desktop\Quản Lý Quán Cafe (1)\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\MSI GF63\Desktop\Quản Lý Quán Cafe (1)\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\MSI GF63\Desktop\Quản Lý Quán Cafe (1)\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\MSI GF63\Desktop\Quản Lý Quán Cafe (1)\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\MSI GF63\Desktop\Quản Lý Quán Cafe (1)\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\MSI GF63\Desktop\Quản Lý Quán Cafe (1)\Quản Lý Quán Cafe\QuanLyQuanCafe_C#\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
